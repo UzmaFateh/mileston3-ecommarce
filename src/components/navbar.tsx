@@ -1,7 +1,7 @@
 'use client'
 import Link from 'next/link';
 import React, { useState } from 'react';
-import { FaPhone, FaEnvelope, FaFacebook, FaTwitter, FaInstagram, FaSearch, FaShoppingCart, FaBars, FaHeart } from 'react-icons/fa';
+import { FaPhone, FaEnvelope, FaFacebook, FaTwitter, FaInstagram, FaSearch, FaBars, FaHeart } from 'react-icons/fa';
 import CartBtn from './layout/Navbar/TopNavbar/CartBtn';
 
 const Navbar: React.FC = () => {

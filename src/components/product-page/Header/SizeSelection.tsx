@@ -7,10 +7,10 @@ import { RootState } from "@/lib/store";
 import React from "react";
 
 const SizeSelection = () => {
-  const { sizeSelection } = useAppSelector(
-    (state: RootState) => state.products
-  );
-  const dispatch = useAppDispatch();
+  // const { sizeSelection } = useAppSelector(
+    // (state: RootState) => state.products
+  // );
+  // const dispatch = useAppDispatch();
 
   return (
     <div className="flex flex-col">

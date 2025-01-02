@@ -248,7 +248,7 @@ export default function Home() {
 
       {/* Editor's Pick Section */}
       <div className="text-center pt-12 mt-4">
-        <h1 className="font-semibold text-lg">Editor's Pick</h1>
+        <h1 className="font-semibold text-lg">Editor s Pick</h1>
         <p className="text-sm text-gray-500 pb-8">
           Problems trying to resolve the conflict between
         </p>
